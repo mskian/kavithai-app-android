@@ -85,6 +85,12 @@ Download latest APK from Releases section.
 
 ---
 
+## APK SHA256
+
+```txt
+sha256:8ce440e303bdd10fe4d99441d13b2cb5a8672cdc2f42724487e46e24f9e2177b
+```
+
 ## License
 
 MIT License
