@@ -152,7 +152,7 @@ Verify the APK checksum before installing to ensure the file is authentic and no
 ### 📦 SHA256
 
 ```txt
-sha256:8ce440e303bdd10fe4d99441d13b2cb5a8672cdc2f42724487e46e24f9e2177b
+sha256:21d45724d641f72afcb87626da9015e7c74687673f427c8c4dcb954ebf9e3bda
 ```
 
 ### 🛡️ Why Verify SHA256?
@@ -177,8 +177,6 @@ sha256sum app-release.apk
 ```
 
 Compare the generated hash with the SHA256 value above.
-
-[![VirusTotal Scan](https://img.shields.io/badge/VirusTotal-Verified-blue?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/8ce440e303bdd10fe4d99441d13b2cb5a8672cdc2f42724487e46e24f9e2177b/summary)
 
 ---
 
