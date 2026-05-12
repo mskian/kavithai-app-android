@@ -1,6 +1,6 @@
 # ✨ Tamil Kavithai App 📖❤️
 
-Modern **Tamil Kavithai & Kadhal Kavithai** Android App built using **Expo + React Native**.
+Modern **Tamil Kavithai & Kadhal Kavithai** Android App built using **Expo + React Native**.  
 
 <p align="center">
 
@@ -11,6 +11,7 @@ Modern **Tamil Kavithai & Kadhal Kavithai** Android App built using **Expo + Rea
 <a href="https://github.com/mskian/kavithai-app-android/releases/latest">
   <img src="https://img.shields.io/github/v/release/mskian/kavithai-app-android?style=for-the-badge&logo=github" alt="GitHub Release">
 </a>
+
 
 <a href="https://github.com/mskian/kavithai-app-android/releases/latest">
   <img src="https://img.shields.io/github/downloads/mskian/kavithai-app-android/total?style=for-the-badge&logo=github" alt="Downloads">
@@ -75,7 +76,6 @@ https://github.com/mskian/kavithai-app-android
 - 🔀 Random Unique Quotes
 - 📦 APK Release Support
 - 🌐 Cloudflare CDN
-- 💾 Offline Cache Support
 - 🔥 Smooth Navigation
 - 🧠 Smart UI Rendering
 
@@ -86,7 +86,7 @@ https://github.com/mskian/kavithai-app-android
 ## 📖 Kavithai Page
 
 - Random Tamil Kavithai
-- Infinite Quote Experience
+- Emotional Quotes Experience
 - Pagination Support
 - Pull to Refresh
 - Copy to Clipboard
@@ -119,7 +119,6 @@ https://github.com/mskian/kavithai-app-android
 
 - 🧠 Memoized Components
 - ⚡ Optimized Rendering
-- 📦 Lightweight APK
 - 🔤 Native System Fonts
 - 🚀 Faster Loading Speed
 - 📱 Smooth Android Experience
